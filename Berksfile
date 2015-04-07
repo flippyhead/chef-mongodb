@@ -1,5 +1,3 @@
-source "https://api.berkshelf.com"
+site :opscode
 
-metadata
-
-cookbook 'chef-solo-search'
+cookbook 'mongodb'
